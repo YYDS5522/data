@@ -4,7 +4,6 @@
 Partial data are shown in the figure below (due to website restrictions, the dataset is randomly selected for demonstration).
 train:
 ![A0001](https://github.com/user-attachments/assets/2e03173c-23cb-409b-9a6d-35dee48c9dd6)
-![Uploading A0200.jpg…]()
 ![A0300](https://github.com/user-attachments/assets/78643e63-a6fb-49b8-9106-a86a479ddc20)
 ![A0400](https://github.com/user-attachments/assets/aefb35f9-b765-41da-a6a0-6f4390ff6cbc)
 ![A0500](https://github.com/user-attachments/assets/85112533-02af-4014-8a8c-24d7a5b96fd0)
@@ -20,4 +19,18 @@ train:
 ![A5706](https://github.com/user-attachments/assets/da909dd4-204f-45e9-ac0e-e91508a9df8e)
 
 val：
+![B0005](https://github.com/user-attachments/assets/9c9456aa-17ce-417b-827f-a2d5c512164b)
+![B0056](https://github.com/user-attachments/assets/8139ef36-394d-4ba3-8949-3911af114397)
+![B0110](https://github.com/user-attachments/assets/a4fb65cb-525b-409a-980b-d2388741e088)
+![B0159](https://github.com/user-attachments/assets/ff894399-3a1c-4ddd-82e6-b5e72d8d7e2e)
+![B0216](https://github.com/user-attachments/assets/52acb06d-907f-46d3-8896-5b02cceee8a2)
+![B0319](https://github.com/user-attachments/assets/597daddb-5bc3-4103-9476-fc24d8dfba8d)
+
+test:
+![C0002](https://github.com/user-attachments/assets/d4ec263b-4cc2-4989-84b7-441bea51cba5)
+![C0010](https://github.com/user-attachments/assets/c322c4e9-06f8-4719-aa81-f330136306d6)
+![C0035](https://github.com/user-attachments/assets/0b2980cb-21ad-4033-a490-1e8fb1e41062)
+![C0061](https://github.com/user-attachments/assets/2110424a-486e-4235-bd5e-ac3f38082ebe)
+![C0088](https://github.com/user-attachments/assets/84e8e353-ff4c-4c3a-8fb9-14616a89c5b5)
+![C0092](https://github.com/user-attachments/assets/109638bb-fe9a-484a-82ab-fc640b6f4aa2)
 
