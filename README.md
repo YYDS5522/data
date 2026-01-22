@@ -1,5 +1,5 @@
 # data
-#The root directory of the dataset is named datas, which contains two subdirectories: images and labels—the former for storing images and the latter for their corresponding annotation files.
+The root directory of the dataset is named datas, which contains two subdirectories: images and labels—the former for storing images and the latter for their corresponding annotation files.
 The images directory holds the images for the train, val, and test sets, all in .jpg format.
 The labels directory stores annotation files (in .txt format) that are in one-to-one correspondence with the images in the train, val, and test sets respectively.
 Note: No data augmentation has been applied to any of the images. Users may perform relevant data augmentation operations as required.
