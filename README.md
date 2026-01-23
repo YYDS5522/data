@@ -4,7 +4,7 @@ The images directory holds the images for the train, val, and test sets, all in 
 The labels directory stores annotation files (in .txt format) that are in one-to-one correspondence with the images in the train, val, and test sets respectively.
 Note: No data augmentation has been applied to any of the images. Users may perform relevant data augmentation operations as required.
 
-## 链接: https://pan.baidu.com/s/1-XYAFJXHUu8RvcSZ9TqIxw?pwd=YYDS 提取码: YYDS
+## link: https://pan.baidu.com/s/1-XYAFJXHUu8RvcSZ9TqIxw?pwd=YYDS extraction code: YYDS
 
 Partial data are shown in the figure below (due to website restrictions, the dataset is randomly selected for demonstration).
 #### train:
