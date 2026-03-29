@@ -5,7 +5,7 @@ The labels directory stores annotation files (in .txt format) that are in one-to
 Note: No data augmentation has been applied to any of the images. Users may perform relevant data augmentation operations as required.
 
 ## link: https://pan.baidu.com/s/1-XYAFJXHUu8RvcSZ9TqIxw?pwd=YYDS extraction code: YYDS
-## If the link is invalid, please leave a message to contact us.
+If the link is invalid, please leave a message to contact us.
 
 Partial data are shown in the figure below (due to website restrictions, the dataset is randomly selected for demonstration).
 #### train:
